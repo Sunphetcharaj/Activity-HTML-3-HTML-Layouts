@@ -1,0 +1,12 @@
+span {
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+}
+
+.dog {
+    width: 100px;
+    height: 100px;
+}
